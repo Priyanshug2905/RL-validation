@@ -25,4 +25,5 @@ A2C CartPole
 
 https://github.com/Priyanshug2905/Reinforcement-Learning/assets/131576267/5b2bda42-58bf-4bc8-a1df-1a416f303867
 
+NPG CartPole
 
